@@ -1,4 +1,4 @@
-![LeetCode Stats](https://leetcode.card.workers.dev/imred42?theme=wtf)
+![LeetCode Stats](https://leetcard.jacoblin.cool/imred42?theme=wtf&font=JetBrains%20Mono&ext=heatmap)
 ## Hi there! I'm Chenfei 👋
 
 🎓 Master's student in Computational Linguistics and Language Technology at the University of Zurich
