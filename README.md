@@ -1,5 +1,5 @@
 ![LeetCode Stats](https://leetcode.card.workers.dev/imred42?theme=dark&font=source_code_pro&extension=null)
-
+![LeetCode Stats](https://leetcode.card.workers.dev/imred42?theme=wtf)
 ## Hi there! I'm Chenfei 👋
 
 🎓 Master's student in Computational Linguistics and Language Technology at the University of Zurich
