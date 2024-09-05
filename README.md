@@ -12,6 +12,6 @@
 - Express.js
 ... and more
 
-🌐 Check out my personal website: [https://imred42.github.io/chenfei-xiong/](https://imred42.github.io/chenfei-xiong/)
+🌐 Check out my personal website: [chenfeixiong.com](https://chenfeixiong.com/)
 
 Let's connect and build something cool! 💡
