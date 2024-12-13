@@ -2,8 +2,11 @@
 
 ## About Me
 🎓 MA Student in Computational Linguistics at University of Zurich
+
 💻 Full-Stack Developer passionate about building innovative solutions
+
 🌱 Always learning and exploring new technologies
+
 🔍 Open to Software Engineering internship opportunities
 
 ## 🛠 Tech Stack
